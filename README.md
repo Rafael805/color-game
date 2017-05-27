@@ -1,2 +1,2 @@
 # color-game
-## Can you guess the rgb color??
+Can you guess the rgb color??
